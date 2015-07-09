@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GSM 3G Check</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Refresh</string>
+    <string name="action_force">Force Switch</string>
+    <string name="action_log">Last 20 log entries (descending)</string>
+    <string name="action_about">About...</string>
+</resources>
